@@ -38,7 +38,7 @@ lines = re.findall(p, data)
 channel_pubdate = format_datetime(datetime.now())
 output = f"<rss><channel><pubDate>{channel_pubdate}</pubDate>"
 
-for i, line in enumerate(lines[:100]):
+for i, line in enumerate(lines):
     print(f"{i+1} of {len(lines)}")
     study_accession = line[0]
     marine_study = check_if_marine(study_accession)
