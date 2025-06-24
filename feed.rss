@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-<rss><channel><pubDate>Tue, 24 Jun 2025 10:44:24 -0000</pubDate>
+<rss><channel><pubDate>Tue, 24 Jun 2025 11:00:07 -0000</pubDate>
             <item>
                 <title>MGYS00000296 - ('global ocean sampling expedition',)</title>
                 <link>https://hosted-datasets.gbif.org/mgnify/MGYS00000296.zip</link>
@@ -20,7 +19,473 @@
                 <ipt:dwca>https://hosted-datasets.gbif.org/mgnify/MGYS00000492.zip</ipt:dwca>
                 <pubDate>Thu, 22 Sep 2022 08:44:00 -0000</pubDate>
             </item>
+        
+            <item>
+                <title>MGYS00001073 - ('bacterial 16s amplicon sequencing of the atlantic ocean',)</title>
+                <link>https://hosted-datasets.gbif.org/mgnify/MGYS00001073.zip</link>
+                <ipt:dwca>https://hosted-datasets.gbif.org/mgnify/MGYS00001073.zip</ipt:dwca>
+                <pubDate>Tue, 20 Sep 2022 12:42:00 -0000</pubDate>
+            </item>
+        
+            <item>
+                <title>MGYS00001430 - ('metagenomic investigation of the coastal region of south gujarat using soil sample - nargol, umargam and dandi',)</title>
+                <link>https://hosted-datasets.gbif.org/mgnify/MGYS00001430.zip</link>
+                <ipt:dwca>https://hosted-datasets.gbif.org/mgnify/MGYS00001430.zip</ipt:dwca>
+                <pubDate>Tue, 20 Sep 2022 12:42:00 -0000</pubDate>
+            </item>
+        
+            <item>
+                <title>MGYS00001499 - ('the san pedro ocean time-series is a marine time-series started circa 1997. this project aims to study ecological and biogeochemical implications of global marine microbial biodiversity.',)</title>
+                <link>https://hosted-datasets.gbif.org/mgnify/MGYS00001499.zip</link>
+                <ipt:dwca>https://hosted-datasets.gbif.org/mgnify/MGYS00001499.zip</ipt:dwca>
+                <pubDate>Thu, 22 Sep 2022 08:44:00 -0000</pubDate>
+            </item>
+        
+            <item>
+                <title>MGYS00001759 - ("large variability of bathypelagic microbial eukaryotic communities across the world's oceans",)</title>
+                <link>https://hosted-datasets.gbif.org/mgnify/MGYS00001759.zip</link>
+                <ipt:dwca>https://hosted-datasets.gbif.org/mgnify/MGYS00001759.zip</ipt:dwca>
+                <pubDate>Thu, 22 Sep 2022 08:44:00 -0000</pubDate>
+            </item>
+        
+            <item>
+                <title>MGYS00001789 - ('amplicon sequencing of tara oceans rna samples corresponding to size fractions for protists.',)</title>
+                <link>https://hosted-datasets.gbif.org/mgnify/MGYS00001789.zip</link>
+                <ipt:dwca>https://hosted-datasets.gbif.org/mgnify/MGYS00001789.zip</ipt:dwca>
+                <pubDate>Tue, 20 Sep 2022 12:42:00 -0000</pubDate>
+            </item>
+        
+            <item>
+                <title>MGYS00001811 - ('amplicon sequencing of tara oceans dna samples corresponding to size fractions for  large dna viruses.',)</title>
+                <link>https://hosted-datasets.gbif.org/mgnify/MGYS00001811.zip</link>
+                <ipt:dwca>https://hosted-datasets.gbif.org/mgnify/MGYS00001811.zip</ipt:dwca>
+                <pubDate>Thu, 22 Sep 2022 08:44:00 -0000</pubDate>
+            </item>
+        
+            <item>
+                <title>MGYS00001869 - ('shotgun metagenomic sequencing of the arctic ocean during winter-spring transition',)</title>
+                <link>https://hosted-datasets.gbif.org/mgnify/MGYS00001869.zip</link>
+                <ipt:dwca>https://hosted-datasets.gbif.org/mgnify/MGYS00001869.zip</ipt:dwca>
+                <pubDate>Thu, 22 Sep 2022 08:44:00 -0000</pubDate>
+            </item>
+        
+            <item>
+                <title>MGYS00001922 - ('ssu rrna amplicon of the arctic ocean during winter-spring transition',)</title>
+                <link>https://hosted-datasets.gbif.org/mgnify/MGYS00001922.zip</link>
+                <ipt:dwca>https://hosted-datasets.gbif.org/mgnify/MGYS00001922.zip</ipt:dwca>
+                <pubDate>Thu, 22 Sep 2022 08:44:00 -0000</pubDate>
+            </item>
+        
+            <item>
+                <title>MGYS00001935 - ('emose (2017) inter-comparison of marine plankton metagenome analysis methods',)</title>
+                <link>https://hosted-datasets.gbif.org/mgnify/MGYS00001935.zip</link>
+                <ipt:dwca>https://hosted-datasets.gbif.org/mgnify/MGYS00001935.zip</ipt:dwca>
+                <pubDate>Thu, 22 Sep 2022 08:44:00 -0000</pubDate>
+            </item>
+        
+            <item>
+                <title>MGYS00002088 - ('metagenome data from dna stable isotope probing of stiffkey saltmarsh sediment microcosms to investigate methanogenesis from choline',)</title>
+                <link>https://hosted-datasets.gbif.org/mgnify/MGYS00002088.zip</link>
+                <ipt:dwca>https://hosted-datasets.gbif.org/mgnify/MGYS00002088.zip</ipt:dwca>
+                <pubDate>Tue, 20 Sep 2022 12:42:00 -0000</pubDate>
+            </item>
+        
+            <item>
+                <title>MGYS00002286 - ('metagenomic investigation of six depths from the anchialine bundera sinkhole',)</title>
+                <link>https://hosted-datasets.gbif.org/mgnify/MGYS00002286.zip</link>
+                <ipt:dwca>https://hosted-datasets.gbif.org/mgnify/MGYS00002286.zip</ipt:dwca>
+                <pubDate>Tue, 20 Sep 2022 12:42:00 -0000</pubDate>
+            </item>
+        
+            <item>
+                <title>MGYS00002370 - ('prospecting of extreme microbial ecosystems associated to minerals (microbialites, microbial mats and endoevaporites) in puna, wetlands and salars of argentina, chile and bolivia',)</title>
+                <link>https://hosted-datasets.gbif.org/mgnify/MGYS00002370.zip</link>
+                <ipt:dwca>https://hosted-datasets.gbif.org/mgnify/MGYS00002370.zip</ipt:dwca>
+                <pubDate>Tue, 20 Sep 2022 12:42:00 -0000</pubDate>
+            </item>
+        
+            <item>
+                <title>MGYS00002371 - ('porcupine seabight 16s ribosomal rna',)</title>
+                <link>https://hosted-datasets.gbif.org/mgnify/MGYS00002371.zip</link>
+                <ipt:dwca>https://hosted-datasets.gbif.org/mgnify/MGYS00002371.zip</ipt:dwca>
+                <pubDate>Tue, 20 Sep 2022 12:42:00 -0000</pubDate>
+            </item>
+        
+            <item>
+                <title>MGYS00002372 - ('uk coast natural seawater genome sequencing',)</title>
+                <link>https://hosted-datasets.gbif.org/mgnify/MGYS00002372.zip</link>
+                <ipt:dwca>https://hosted-datasets.gbif.org/mgnify/MGYS00002372.zip</ipt:dwca>
+                <pubDate>Tue, 20 Sep 2022 12:42:00 -0000</pubDate>
+            </item>
+        
+            <item>
+                <title>MGYS00002373 - ('characteristics of sob community in sediments from the east china sea by high-throughput sequencing',)</title>
+                <link>https://hosted-datasets.gbif.org/mgnify/MGYS00002373.zip</link>
+                <ipt:dwca>https://hosted-datasets.gbif.org/mgnify/MGYS00002373.zip</ipt:dwca>
+                <pubDate>Tue, 20 Sep 2022 12:42:00 -0000</pubDate>
+            </item>
+        
+            <item>
+                <title>MGYS00002374 - ('seawater metagenome',)</title>
+                <link>https://hosted-datasets.gbif.org/mgnify/MGYS00002374.zip</link>
+                <ipt:dwca>https://hosted-datasets.gbif.org/mgnify/MGYS00002374.zip</ipt:dwca>
+                <pubDate>Tue, 20 Sep 2022 12:42:00 -0000</pubDate>
+            </item>
+        
+            <item>
+                <title>MGYS00002375 - ('microbial diversity studies of arabian sea sediment',)</title>
+                <link>https://hosted-datasets.gbif.org/mgnify/MGYS00002375.zip</link>
+                <ipt:dwca>https://hosted-datasets.gbif.org/mgnify/MGYS00002375.zip</ipt:dwca>
+                <pubDate>Tue, 20 Sep 2022 12:42:00 -0000</pubDate>
+            </item>
+        
+            <item>
+                <title>MGYS00002376 - ('nahant collection',)</title>
+                <link>https://hosted-datasets.gbif.org/mgnify/MGYS00002376.zip</link>
+                <ipt:dwca>https://hosted-datasets.gbif.org/mgnify/MGYS00002376.zip</ipt:dwca>
+                <pubDate>Tue, 20 Sep 2022 12:42:00 -0000</pubDate>
+            </item>
+        
+            <item>
+                <title>MGYS00002379 - ('pelagic sediment metagenome of gulf of kutch',)</title>
+                <link>https://hosted-datasets.gbif.org/mgnify/MGYS00002379.zip</link>
+                <ipt:dwca>https://hosted-datasets.gbif.org/mgnify/MGYS00002379.zip</ipt:dwca>
+                <pubDate>Tue, 20 Sep 2022 12:42:00 -0000</pubDate>
+            </item>
+        
+            <item>
+                <title>MGYS00002380 - ('pelagic sediment metagenome of gulf of khambhat',)</title>
+                <link>https://hosted-datasets.gbif.org/mgnify/MGYS00002380.zip</link>
+                <ipt:dwca>https://hosted-datasets.gbif.org/mgnify/MGYS00002380.zip</ipt:dwca>
+                <pubDate>Tue, 20 Sep 2022 12:42:00 -0000</pubDate>
+            </item>
+        
+            <item>
+                <title>MGYS00002381 - ('rdna amplicon sequencing of western north atlantic microbial community',)</title>
+                <link>https://hosted-datasets.gbif.org/mgnify/MGYS00002381.zip</link>
+                <ipt:dwca>https://hosted-datasets.gbif.org/mgnify/MGYS00002381.zip</ipt:dwca>
+                <pubDate>Tue, 20 Sep 2022 12:42:00 -0000</pubDate>
+            </item>
+        
+            <item>
+                <title>MGYS00002392 - ('amplicon sequencing of tara oceans dna samples corresponding to size fractions for protists.',)</title>
+                <link>https://hosted-datasets.gbif.org/mgnify/MGYS00002392.zip</link>
+                <ipt:dwca>https://hosted-datasets.gbif.org/mgnify/MGYS00002392.zip</ipt:dwca>
+                <pubDate>Tue, 20 Sep 2022 12:42:00 -0000</pubDate>
+            </item>
+        
+            <item>
+                <title>MGYS00002404 - ('yarwun port curtis sediment bacterial 16s rrna (v6) 454 sequence',)</title>
+                <link>https://hosted-datasets.gbif.org/mgnify/MGYS00002404.zip</link>
+                <ipt:dwca>https://hosted-datasets.gbif.org/mgnify/MGYS00002404.zip</ipt:dwca>
+                <pubDate>Tue, 20 Sep 2022 12:42:00 -0000</pubDate>
+            </item>
+        
+            <item>
+                <title>MGYS00002405 - ('polymetallic nodule field targeted loci environmental',)</title>
+                <link>https://hosted-datasets.gbif.org/mgnify/MGYS00002405.zip</link>
+                <ipt:dwca>https://hosted-datasets.gbif.org/mgnify/MGYS00002405.zip</ipt:dwca>
+                <pubDate>Tue, 20 Sep 2022 12:42:00 -0000</pubDate>
+            </item>
+        
+            <item>
+                <title>MGYS00002437 - ('deepend: microbiome and bacterioplankton rrna gene sequence data collected from gulf of mexico seawater samples. cruises dp03 and dp04 from jan 2016 - december 2016',)</title>
+                <link>https://hosted-datasets.gbif.org/mgnify/MGYS00002437.zip</link>
+                <ipt:dwca>https://hosted-datasets.gbif.org/mgnify/MGYS00002437.zip</ipt:dwca>
+                <pubDate>Tue, 20 Sep 2022 12:42:00 -0000</pubDate>
+            </item>
+        
+            <item>
+                <title>MGYS00002439 - ('zostera marina ammonification environmental',)</title>
+                <link>https://hosted-datasets.gbif.org/mgnify/MGYS00002439.zip</link>
+                <ipt:dwca>https://hosted-datasets.gbif.org/mgnify/MGYS00002439.zip</ipt:dwca>
+                <pubDate>Tue, 20 Sep 2022 12:42:00 -0000</pubDate>
+            </item>
+        
+            <item>
+                <title>MGYS00002444 - ('microbial diversity in the benguela coastal upwelling system as derived from 16s rrna sequencing and rna stable isotope probing (sip)',)</title>
+                <link>https://hosted-datasets.gbif.org/mgnify/MGYS00002444.zip</link>
+                <ipt:dwca>https://hosted-datasets.gbif.org/mgnify/MGYS00002444.zip</ipt:dwca>
+                <pubDate>Tue, 20 Sep 2022 12:42:00 -0000</pubDate>
+            </item>
+        
+            <item>
+                <title>MGYS00002448 - ('biological rejuvenation of iron oxides in bioturbated marine sediments',)</title>
+                <link>https://hosted-datasets.gbif.org/mgnify/MGYS00002448.zip</link>
+                <ipt:dwca>https://hosted-datasets.gbif.org/mgnify/MGYS00002448.zip</ipt:dwca>
+                <pubDate>Tue, 20 Sep 2022 12:42:00 -0000</pubDate>
+            </item>
+        
+            <item>
+                <title>MGYS00002449 - ('nuunat- orms formation during oil biodegradation at low temperature',)</title>
+                <link>https://hosted-datasets.gbif.org/mgnify/MGYS00002449.zip</link>
+                <ipt:dwca>https://hosted-datasets.gbif.org/mgnify/MGYS00002449.zip</ipt:dwca>
+                <pubDate>Tue, 20 Sep 2022 12:42:00 -0000</pubDate>
+            </item>
+        
+            <item>
+                <title>MGYS00002451 - ('16s and 18s sequences from the epiphytic biofilm on leaves of enhalus acroides',)</title>
+                <link>https://hosted-datasets.gbif.org/mgnify/MGYS00002451.zip</link>
+                <ipt:dwca>https://hosted-datasets.gbif.org/mgnify/MGYS00002451.zip</ipt:dwca>
+                <pubDate>Tue, 20 Sep 2022 12:42:00 -0000</pubDate>
+            </item>
+        
+            <item>
+                <title>MGYS00002452 - ('pelagic microbiome: viruses to protists. 16s and 18s data from oceanic samples collected at the chlorophyll maximum.',)</title>
+                <link>https://hosted-datasets.gbif.org/mgnify/MGYS00002452.zip</link>
+                <ipt:dwca>https://hosted-datasets.gbif.org/mgnify/MGYS00002452.zip</ipt:dwca>
+                <pubDate>Tue, 20 Sep 2022 12:42:00 -0000</pubDate>
+            </item>
+        
+            <item>
+                <title>MGYS00002462 - ('effect of size fractionation and dna extraction on the diversity and composition of prokaryotic and eukaryotic plankton community',)</title>
+                <link>https://hosted-datasets.gbif.org/mgnify/MGYS00002462.zip</link>
+                <ipt:dwca>https://hosted-datasets.gbif.org/mgnify/MGYS00002462.zip</ipt:dwca>
+                <pubDate>Tue, 20 Sep 2022 12:42:00 -0000</pubDate>
+            </item>
+        
+            <item>
+                <title>MGYS00002474 - ('metabolically active microbial communities in marine sediment under high-co2 and low-ph extremes',)</title>
+                <link>https://hosted-datasets.gbif.org/mgnify/MGYS00002474.zip</link>
+                <ipt:dwca>https://hosted-datasets.gbif.org/mgnify/MGYS00002474.zip</ipt:dwca>
+                <pubDate>Tue, 20 Sep 2022 12:42:00 -0000</pubDate>
+            </item>
+        
+            <item>
+                <title>MGYS00002475 - ('metagenetic analysis of the 18s nuclear small subunit ribosomal rna gene of a mixed zooplankton assemblage was carried out using the 454 pyrosequencing platform.',)</title>
+                <link>https://hosted-datasets.gbif.org/mgnify/MGYS00002475.zip</link>
+                <ipt:dwca>https://hosted-datasets.gbif.org/mgnify/MGYS00002475.zip</ipt:dwca>
+                <pubDate>Tue, 20 Sep 2022 12:42:00 -0000</pubDate>
+            </item>
+        
+            <item>
+                <title>MGYS00002476 - ('comparative study in validity of three regions of 18s-rrna for eukaryote amplicon sequence analyses',)</title>
+                <link>https://hosted-datasets.gbif.org/mgnify/MGYS00002476.zip</link>
+                <ipt:dwca>https://hosted-datasets.gbif.org/mgnify/MGYS00002476.zip</ipt:dwca>
+                <pubDate>Tue, 20 Sep 2022 12:42:00 -0000</pubDate>
+            </item>
+        
+            <item>
+                <title>MGYS00002477 - ('protistan communities of the upper arctic ocean (18s ssu-rrna targeted locus)',)</title>
+                <link>https://hosted-datasets.gbif.org/mgnify/MGYS00002477.zip</link>
+                <ipt:dwca>https://hosted-datasets.gbif.org/mgnify/MGYS00002477.zip</ipt:dwca>
+                <pubDate>Tue, 20 Sep 2022 12:42:00 -0000</pubDate>
+            </item>
+        
+            <item>
+                <title>MGYS00002478 - ('accuracy of protist diversity assessments: morphology compared to cloning\n                and direct pyrosequencing of 18s rrna genes and its regions using the conspicuous\n                tintinnid ciliates as a case study',)</title>
+                <link>https://hosted-datasets.gbif.org/mgnify/MGYS00002478.zip</link>
+                <ipt:dwca>https://hosted-datasets.gbif.org/mgnify/MGYS00002478.zip</ipt:dwca>
+                <pubDate>Thu, 22 Sep 2022 08:44:00 -0000</pubDate>
+            </item>
+        
+            <item>
+                <title>MGYS00002486 - ('distributions and abundances of sublineages of the n2-fixing cyanobacterium candidatus atelocyanobacterium thalassa (ucyn-a) in the noumea lagoon',)</title>
+                <link>https://hosted-datasets.gbif.org/mgnify/MGYS00002486.zip</link>
+                <ipt:dwca>https://hosted-datasets.gbif.org/mgnify/MGYS00002486.zip</ipt:dwca>
+                <pubDate>Tue, 20 Sep 2022 12:42:00 -0000</pubDate>
+            </item>
+        
+            <item>
+                <title>MGYS00002488 - ('microbial communities associated with ferromanganese nodules and the surrounding sediments',)</title>
+                <link>https://hosted-datasets.gbif.org/mgnify/MGYS00002488.zip</link>
+                <ipt:dwca>https://hosted-datasets.gbif.org/mgnify/MGYS00002488.zip</ipt:dwca>
+                <pubDate>Tue, 20 Sep 2022 12:42:00 -0000</pubDate>
+            </item>
+        
+            <item>
+                <title>MGYS00002490 - ('baselines initiative 16s rrna gene dataset: baselines amplicon release 1 (r1) indian ocean 2015',)</title>
+                <link>https://hosted-datasets.gbif.org/mgnify/MGYS00002490.zip</link>
+                <ipt:dwca>https://hosted-datasets.gbif.org/mgnify/MGYS00002490.zip</ipt:dwca>
+                <pubDate>Tue, 20 Sep 2022 12:42:00 -0000</pubDate>
+            </item>
+        
+            <item>
+                <title>MGYS00002492 - ('metagenomes of sediments from red sea atlantis ii and discovery deep brine pools',)</title>
+                <link>https://hosted-datasets.gbif.org/mgnify/MGYS00002492.zip</link>
+                <ipt:dwca>https://hosted-datasets.gbif.org/mgnify/MGYS00002492.zip</ipt:dwca>
+                <pubDate>Tue, 20 Sep 2022 12:42:00 -0000</pubDate>
+            </item>
+        
+            <item>
+                <title>MGYS00002494 - ('uncultured marine picoeukaryote strain:peuk_v4_nwp1 raw sequence reads',)</title>
+                <link>https://hosted-datasets.gbif.org/mgnify/MGYS00002494.zip</link>
+                <ipt:dwca>https://hosted-datasets.gbif.org/mgnify/MGYS00002494.zip</ipt:dwca>
+                <pubDate>Tue, 20 Sep 2022 12:42:00 -0000</pubDate>
+            </item>
+        
+            <item>
+                <title>MGYS00002496 - ('gulf oil spill underwater oil plume samples targeted locus (loci)',)</title>
+                <link>https://hosted-datasets.gbif.org/mgnify/MGYS00002496.zip</link>
+                <ipt:dwca>https://hosted-datasets.gbif.org/mgnify/MGYS00002496.zip</ipt:dwca>
+                <pubDate>Tue, 20 Sep 2022 12:42:00 -0000</pubDate>
+            </item>
+        
+            <item>
+                <title>MGYS00002498 - ('little sippewissett marsh targeted locus (loci)',)</title>
+                <link>https://hosted-datasets.gbif.org/mgnify/MGYS00002498.zip</link>
+                <ipt:dwca>https://hosted-datasets.gbif.org/mgnify/MGYS00002498.zip</ipt:dwca>
+                <pubDate>Tue, 20 Sep 2022 12:42:00 -0000</pubDate>
+            </item>
+        
+            <item>
+                <title>MGYS00002500 - ('brdu_mab_ss metagenome',)</title>
+                <link>https://hosted-datasets.gbif.org/mgnify/MGYS00002500.zip</link>
+                <ipt:dwca>https://hosted-datasets.gbif.org/mgnify/MGYS00002500.zip</ipt:dwca>
+                <pubDate>Tue, 20 Sep 2022 12:42:00 -0000</pubDate>
+            </item>
+        
+            <item>
+                <title>MGYS00002501 - ('caspian sea sediment - 16s survey targeted locus (loci)',)</title>
+                <link>https://hosted-datasets.gbif.org/mgnify/MGYS00002501.zip</link>
+                <ipt:dwca>https://hosted-datasets.gbif.org/mgnify/MGYS00002501.zip</ipt:dwca>
+                <pubDate>Tue, 20 Sep 2022 12:42:00 -0000</pubDate>
+            </item>
+        
+            <item>
+                <title>MGYS00002510 - ('hatteras return: oligotrich and choreotrich ciliates diversity at small scales',)</title>
+                <link>https://hosted-datasets.gbif.org/mgnify/MGYS00002510.zip</link>
+                <ipt:dwca>https://hosted-datasets.gbif.org/mgnify/MGYS00002510.zip</ipt:dwca>
+                <pubDate>Tue, 20 Sep 2022 12:42:00 -0000</pubDate>
+            </item>
+        
+            <item>
+                <title>MGYS00002511 - ('prokaryotic community response to microalgal lysates',)</title>
+                <link>https://hosted-datasets.gbif.org/mgnify/MGYS00002511.zip</link>
+                <ipt:dwca>https://hosted-datasets.gbif.org/mgnify/MGYS00002511.zip</ipt:dwca>
+                <pubDate>Tue, 20 Sep 2022 12:42:00 -0000</pubDate>
+            </item>
+        
+            <item>
+                <title>MGYS00002518 - ('marine planktonic ciliates: ssu rdna',)</title>
+                <link>https://hosted-datasets.gbif.org/mgnify/MGYS00002518.zip</link>
+                <ipt:dwca>https://hosted-datasets.gbif.org/mgnify/MGYS00002518.zip</ipt:dwca>
+                <pubDate>Tue, 20 Sep 2022 12:42:00 -0000</pubDate>
+            </item>
+        
+            <item>
+                <title>MGYS00002519 - ('reciprocal transplantation experiment of salt marsh sediments targeted loci',)</title>
+                <link>https://hosted-datasets.gbif.org/mgnify/MGYS00002519.zip</link>
+                <ipt:dwca>https://hosted-datasets.gbif.org/mgnify/MGYS00002519.zip</ipt:dwca>
+                <pubDate>Tue, 20 Sep 2022 12:42:00 -0000</pubDate>
+            </item>
+        
+            <item>
+                <title>MGYS00002520 - ('marine metagenome targeted loci environmental',)</title>
+                <link>https://hosted-datasets.gbif.org/mgnify/MGYS00002520.zip</link>
+                <ipt:dwca>https://hosted-datasets.gbif.org/mgnify/MGYS00002520.zip</ipt:dwca>
+                <pubDate>Tue, 20 Sep 2022 12:42:00 -0000</pubDate>
+            </item>
+        
+            <item>
+                <title>MGYS00002521 - ('gulf of mexico open ocean targeted locus (loci)',)</title>
+                <link>https://hosted-datasets.gbif.org/mgnify/MGYS00002521.zip</link>
+                <ipt:dwca>https://hosted-datasets.gbif.org/mgnify/MGYS00002521.zip</ipt:dwca>
+                <pubDate>Tue, 20 Sep 2022 12:42:00 -0000</pubDate>
+            </item>
+        
+            <item>
+                <title>MGYS00002522 - ('standard filtration practices significantly distort planktonic microbial diversity estimates',)</title>
+                <link>https://hosted-datasets.gbif.org/mgnify/MGYS00002522.zip</link>
+                <ipt:dwca>https://hosted-datasets.gbif.org/mgnify/MGYS00002522.zip</ipt:dwca>
+                <pubDate>Tue, 20 Sep 2022 12:42:00 -0000</pubDate>
+            </item>
+        
+            <item>
+                <title>MGYS00002523 - ('south china sea interfaces 16s amplicon sequencing',)</title>
+                <link>https://hosted-datasets.gbif.org/mgnify/MGYS00002523.zip</link>
+                <ipt:dwca>https://hosted-datasets.gbif.org/mgnify/MGYS00002523.zip</ipt:dwca>
+                <pubDate>Tue, 20 Sep 2022 12:42:00 -0000</pubDate>
+            </item>
+        
+            <item>
+                <title>MGYS00002527 - ('diversity of archaeal and bacterial 16s rrna gene in marine sediment in aarhus bay',)</title>
+                <link>https://hosted-datasets.gbif.org/mgnify/MGYS00002527.zip</link>
+                <ipt:dwca>https://hosted-datasets.gbif.org/mgnify/MGYS00002527.zip</ipt:dwca>
+                <pubDate>Tue, 20 Sep 2022 12:42:00 -0000</pubDate>
+            </item>
+        
+            <item>
+                <title>MGYS00002528 - ('short-term interaction of pyrene and cadmium in prokaryotic community in coastal sediment microcosms',)</title>
+                <link>https://hosted-datasets.gbif.org/mgnify/MGYS00002528.zip</link>
+                <ipt:dwca>https://hosted-datasets.gbif.org/mgnify/MGYS00002528.zip</ipt:dwca>
+                <pubDate>Tue, 20 Sep 2022 12:42:00 -0000</pubDate>
+            </item>
+        
+            <item>
+                <title>MGYS00002529 - ('dark ocean microbial diversity',)</title>
+                <link>https://hosted-datasets.gbif.org/mgnify/MGYS00002529.zip</link>
+                <ipt:dwca>https://hosted-datasets.gbif.org/mgnify/MGYS00002529.zip</ipt:dwca>
+                <pubDate>Tue, 20 Sep 2022 12:42:00 -0000</pubDate>
+            </item>
+        
+            <item>
+                <title>MGYS00002531 - ('a method for studying protistan diversity using massively parallel sequencing of v9 hypervariable regions of small-subunit ribosomal rna genes',)</title>
+                <link>https://hosted-datasets.gbif.org/mgnify/MGYS00002531.zip</link>
+                <ipt:dwca>https://hosted-datasets.gbif.org/mgnify/MGYS00002531.zip</ipt:dwca>
+                <pubDate>Tue, 20 Sep 2022 12:42:00 -0000</pubDate>
+            </item>
+        
+            <item>
+                <title>MGYS00002541 - ('16s rrna amplicon from marine bacteria raw sequence reads',)</title>
+                <link>https://hosted-datasets.gbif.org/mgnify/MGYS00002541.zip</link>
+                <ipt:dwca>https://hosted-datasets.gbif.org/mgnify/MGYS00002541.zip</ipt:dwca>
+                <pubDate>Tue, 20 Sep 2022 12:42:00 -0000</pubDate>
+            </item>
+        
+            <item>
+                <title>MGYS00002542 - ('abyssal baseline study & geophysical survey (abyssline 02)_ab01_re-sequenced targeted loci environmental',)</title>
+                <link>https://hosted-datasets.gbif.org/mgnify/MGYS00002542.zip</link>
+                <ipt:dwca>https://hosted-datasets.gbif.org/mgnify/MGYS00002542.zip</ipt:dwca>
+                <pubDate>Tue, 20 Sep 2022 12:42:00 -0000</pubDate>
+            </item>
+        
+            <item>
+                <title>MGYS00002544 - ('temporal dynamics of the particle-attached and free-living microbial communities from coastal seawater',)</title>
+                <link>https://hosted-datasets.gbif.org/mgnify/MGYS00002544.zip</link>
+                <ipt:dwca>https://hosted-datasets.gbif.org/mgnify/MGYS00002544.zip</ipt:dwca>
+                <pubDate>Tue, 20 Sep 2022 12:42:00 -0000</pubDate>
+            </item>
+        
+            <item>
+                <title>MGYS00002545 - ('impact of saharan dust deposition on bacterioplankton in marine surface water',)</title>
+                <link>https://hosted-datasets.gbif.org/mgnify/MGYS00002545.zip</link>
+                <ipt:dwca>https://hosted-datasets.gbif.org/mgnify/MGYS00002545.zip</ipt:dwca>
+                <pubDate>Tue, 20 Sep 2022 12:42:00 -0000</pubDate>
+            </item>
+        
+            <item>
+                <title>MGYS00002546 - ('pelagic gulf of mexico targeted loci environmental',)</title>
+                <link>https://hosted-datasets.gbif.org/mgnify/MGYS00002546.zip</link>
+                <ipt:dwca>https://hosted-datasets.gbif.org/mgnify/MGYS00002546.zip</ipt:dwca>
+                <pubDate>Tue, 20 Sep 2022 12:42:00 -0000</pubDate>
+            </item>
+        
+            <item>
+                <title>MGYS00002550 - ('coral',)</title>
+                <link>https://hosted-datasets.gbif.org/mgnify/MGYS00002550.zip</link>
+                <ipt:dwca>https://hosted-datasets.gbif.org/mgnify/MGYS00002550.zip</ipt:dwca>
+                <pubDate>Tue, 20 Sep 2022 12:42:00 -0000</pubDate>
+            </item>
+        
+            <item>
+                <title>MGYS00002552 - ('north pacific subtropical gyre microbial community',)</title>
+                <link>https://hosted-datasets.gbif.org/mgnify/MGYS00002552.zip</link>
+                <ipt:dwca>https://hosted-datasets.gbif.org/mgnify/MGYS00002552.zip</ipt:dwca>
+                <pubDate>Tue, 20 Sep 2022 12:42:00 -0000</pubDate>
+            </item>
+        
+            <item>
+                <title>MGYS00002554 - ('nutrient addition mesocosm experiment targeted locus (loci)',)</title>
+                <link>https://hosted-datasets.gbif.org/mgnify/MGYS00002554.zip</link>
+                <ipt:dwca>https://hosted-datasets.gbif.org/mgnify/MGYS00002554.zip</ipt:dwca>
+                <pubDate>Tue, 20 Sep 2022 12:42:00 -0000</pubDate>
+            </item>
+        
+            <item>
+                <title>MGYS00002562 - ('bacterial communitiy compositions on natural and artificial substrates in the spermonde archipelago, indonesia',)</title>
+                <link>https://hosted-datasets.gbif.org/mgnify/MGYS00002562.zip</link>
+                <ipt:dwca>https://hosted-datasets.gbif.org/mgnify/MGYS00002562.zip</ipt:dwca>
+                <pubDate>Tue, 20 Sep 2022 12:42:00 -0000</pubDate>
+            </item>
         </channel></rss>
-=======
-<rss><channel><pubDate>Mon, 27 Nov 2023 12:24:01 -0000</pubDate><item><title>MGYS00005294</title><link>https://hosted-datasets.gbif.org/mgnify/MGYS00005294.zip</link><ipt:dwca>https://hosted-datasets.gbif.org/mgnify/MGYS00005294.zip</ipt:dwca><pubDate>Tue, 20 Sep 2022 12:42:00 -0000</pubDate></item></channel></rss>
->>>>>>> a1cfb015f402542a1f39f19c36b17b679f0c6160
